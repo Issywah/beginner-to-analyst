@@ -1,0 +1,4 @@
+# Logical Functions Practice
+This folder contains all my practice work on **Logical Functions** in Excel.
+I created this file to document my learning and progress as i practice using "IF","AND","OR","IFS","IFERROR" etc.
+Each mini project inside this folder focuses on solving a real-world question with logical formulas.
